@@ -49,7 +49,7 @@ export default function Contact() {
               <div className="text-4xl mb-4">📧</div>
               <h3 className="text-xl font-semibold mb-3">Email Us</h3>
               <p className="text-gray-600 mb-4">
-                Send us an email and we'll respond within 24 hours.
+                Send us an email and we&apos;ll respond within 24 hours.
               </p>
               <p className="font-medium text-blue-600">info@aid-connect.org</p>
             </div>
@@ -207,7 +207,7 @@ export default function Contact() {
             <div className="border-b border-gray-200 pb-6">
               <h3 className="text-lg font-semibold mb-2">How do I become a volunteer?</h3>
               <p className="text-gray-600">
-                Visit our Volunteer page to fill out an application form. We'll review your application and contact you about available opportunities that match your skills and availability.
+                Visit our Volunteer page to fill out an application form. We&apos;ll review your application and contact you about available opportunities that match your skills and availability.
               </p>
             </div>
             <div className="border-b border-gray-200 pb-6">

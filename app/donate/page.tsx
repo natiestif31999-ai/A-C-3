@@ -159,7 +159,7 @@ export default function Donate() {
               <div className="text-3xl mb-4">$25</div>
               <h3 className="text-xl font-semibold mb-3">Provides School Supplies</h3>
               <p className="text-gray-600">
-                One month's worth of educational materials for a child in need.
+                One month&apos;s worth of educational materials for a child in need.
               </p>
             </div>
             <div className="text-center">

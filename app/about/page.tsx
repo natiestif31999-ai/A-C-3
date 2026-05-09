@@ -61,7 +61,7 @@ export default function About() {
               education, and healthcare were interconnected challenges requiring comprehensive solutions.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Starting with a small team of volunteers in Addis Ababa, we've grown to serve over 25 communities
+              Starting with a small team of volunteers in Addis Ababa, we&apos;ve grown to serve over 25 communities
               across Ethiopia. Our approach combines local knowledge with international best practices, ensuring
               that every program is culturally appropriate and sustainable.
             </p>

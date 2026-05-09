@@ -9,7 +9,7 @@ export default function TestimonialCard({ quote, author, role }: TestimonialCard
   return (
     <div className="bg-white p-6 rounded-lg shadow-md">
       <div className="text-gray-600 mb-4 text-lg italic">
-        "{quote}"
+        &quot;{quote}&quot;
       </div>
       <div className="font-semibold text-gray-900">
         {author}

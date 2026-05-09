@@ -93,7 +93,7 @@ export default function Programs() {
             <div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Education for All</h3>
               <p className="text-gray-700 mb-4">
-                We've established 15 new schools and provided scholarships to 500 children,
+                We&apos;ve established 15 new schools and provided scholarships to 500 children,
                 improving literacy rates in target communities by 40%.
               </p>
               <ul className="list-disc list-inside text-gray-700 space-y-2">
